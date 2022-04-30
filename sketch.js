@@ -298,7 +298,8 @@ function keyReleased() {
                 linesString = '';
                 mousePos1 = null;
                 mousePos2 = null;
-            } else {
+            }
+            else if (player.currentLevelNo < levels.length - 1) {
                 player.currentLevelNo += 1;
                 print(player.currentLevelNo);
             }
