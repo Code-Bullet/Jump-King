@@ -779,6 +779,8 @@ class Player {
     UpdateJumpTimer() {
         if (this.isOnGround && this.jumpHeld && this.jumpTimer < maxJumpTimer) {
             this.jumpTimer += 1
+        } else if (this.jumpTimer >= maxJumpTimer) {
+            this.Jump();
         }
     }
 
