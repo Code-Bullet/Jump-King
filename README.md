@@ -3,9 +3,6 @@
 Basically stuff from <a href="https://www.youtube.com/watch?v=DmQ4Dqxs0HI"> the YouTube video.</a> Watch the video first then buy <a href="https://store.steampowered.com/app/1061090/Jump_King/">the game on steam, and then and only then you can run this stuff.</a>
 
 # How to run it:
-</br>
-</br>
-
 ## 1st - Download the files
 
 Green button on the right, or:
